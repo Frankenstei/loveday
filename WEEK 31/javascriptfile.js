@@ -1,0 +1,9 @@
+$(function(){
+textField=$("#textfield");
+addButton=$("#add");
+addButton.on("click",function(){
+textValue=textField.val();
+newList='<li>'+textValue+'</li>';
+$("#list").append(newList);
+});
+});
