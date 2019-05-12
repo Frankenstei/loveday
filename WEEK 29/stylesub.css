@@ -1,0 +1,15 @@
+
+li{
+list-style-type:none;
+}
+a{
+display:block;
+}
+a:hover{color:red;}
+a{
+text-decoration:none;
+font-weight:bold;
+color:blue;
+}
+h1{font-weight:bold;
+}
