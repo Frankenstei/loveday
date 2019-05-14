@@ -1,0 +1,14 @@
+body{
+font-weight:bold;
+}
+td{
+text-align:center;
+}
+a{
+text-decoration:none;
+color:green;
+}
+a:hover{
+color:red;
+}
+li{list-style-type:none;}

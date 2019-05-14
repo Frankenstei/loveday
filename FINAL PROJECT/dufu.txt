@@ -1,0 +1,23 @@
+QUESTION
+A Scholar Tracking System
+Develop a web-based Scholar Tracking System
+for Dufuna task submission. This system will have 3 types of users:
+ADMIN
+The Admin should be able to
+-Log into the app
+-Pair scholars to their  mentors
+-Schedule, manage and track curriculum and tasks
+SCHOLAR
+A scholar should be able to
+-Sign up on the app
+-Sign into the app
+-Submit tasks
+-Comment on tasks submitted
+-View submission status
+MENTOR
+A mentor should be able to
+-Sign up on the app
+-Sign into the app
+-Review and comment on submissions
+-Update submission status (from pending
+to accepted)

@@ -1,0 +1,5 @@
+Tools and Technologies used
+Adobe Photoshop (mockup and webpage background design)
+Sublime text editor
+Notepad
+Chrome
